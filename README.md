@@ -1,4 +1,4 @@
-# *Truong_Package_Deep_Learning_Predicting_De_novo_Promoters-TSS-EBV*
+# *Truong_Package_Deep_Learning_Predicting_De_novo_Promoters*
 
 ![image](https://github.com/truong128/Truong_Package_Deep_Learning_Predicting_De_novo_Promoters-TSS-EBV/blob/main/De_novo_Promoter.png)
 
