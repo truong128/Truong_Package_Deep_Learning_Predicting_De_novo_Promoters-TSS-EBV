@@ -12,6 +12,6 @@
 
 #### [Step 2: Open the terminal and run the python file "Run.py")
 
-#### [Step 3 (optional): Further visualize the output results using Visualization.py if needed")
+#### [Step 3 (optional): For full visualization of the output results, please use Truong_Nguyen.ipynb")
 
 ##### Note:*The last column in the data frame is the Dependent/Label feature!*
